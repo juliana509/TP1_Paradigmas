@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\Ejercicio_1\\Ejercicio_1\\Ejercicio_1.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\juliana509\\TP1_Paradigmas\\Ejercicio_1\\Ejercicio_1.csproj",
       "projectName": "Ejercicio_1",
-      "projectPath": "C:\\Users\\DELL\\source\\repos\\Ejercicio_1\\Ejercicio_1\\Ejercicio_1.csproj",
+      "projectPath": "C:\\Users\\DELL\\source\\repos\\juliana509\\TP1_Paradigmas\\Ejercicio_1\\Ejercicio_1.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\Ejercicio_1\\Ejercicio_1\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\source\\repos\\juliana509\\TP1_Paradigmas\\Ejercicio_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -50,3 +50,5 @@ Console.WriteLine("Guerrero: " + guerrero.MostrarInformación());
 Enemigo enemigo = new Enemigo("Enemigo 1", 5);
 
 Console.WriteLine("Enemigo: " + enemigo.MostrarInformación());
+
+// ejercicio 8
